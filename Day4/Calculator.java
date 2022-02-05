@@ -11,7 +11,6 @@ class Calculator {
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
 
-    // ask users to enter numbers
     System.out.println("Enter first number");
     number1 = input.nextDouble();
 
