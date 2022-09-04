@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Operation{
+class loop{
     public void ok(int a,int b,int c){
         for (int j=0;j<c;j++){
                 a+=(int)Math.pow(2,j)* b; 
@@ -7,7 +7,7 @@ class Operation{
         }
     }
 }
-public class Solution {
+public class loop {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();

@@ -1,6 +1,6 @@
 // print 10 nos
 
-public class PrintNumbers
+public class ifelse
 {
     public static void main(String[] args)
     {

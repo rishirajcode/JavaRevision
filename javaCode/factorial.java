@@ -2,13 +2,13 @@
 
 import java.util.Scanner;
 
-public class Factorial
+public class factorial
 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-        int num; // To hold number
-        int fact = 1; // To hold factorial
+        int num; 
+        int fact = 1; 
         System.out.print("Enter any positive integer: ");
         num = sc.nextInt();
                for(int i=1; i<=num; i++)
